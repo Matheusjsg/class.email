@@ -1,4 +1,5 @@
 🌐  link para test: https://class-email-frontend.vercel.app/
+
 📺 https://www.loom.com/share/9bac64bbf01240d180a7d46b62c33c18
 
 
@@ -8,7 +9,6 @@
 Este projeto foi desenvolvido como parte de um case técnico para automatizar a leitura e classificação de emails, utilizando IA para análise de texto e sugerindo respostas automáticas.
 
 A aplicação permite que o usuário insira um texto manualmente ou envie um arquivo em .txt ou .pdf, e o sistema classifica o email como Produtivo ou Improdutivo, além de sugerir uma resposta automática editável.
-
 
 
 
@@ -148,7 +148,7 @@ Dashboard com métricas de classificação
 
 👨‍💻 Autor
 
-Matheus Jesus
+Matheus Jesus Santos
 📧 matheussantos930@gmail.com
 
 💻 GitHub: github.com/Matheusjsg
